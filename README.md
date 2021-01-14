@@ -15,6 +15,7 @@ The SF-ID network consists of an SF subnet and an ID subnet. The order of the SF
 ## Installation
 
 For training, a GPU is strongly recommended for speed. CPU is supported but training could be extremely slow.
+Also create a folder named `vocab` in the same directory as `train.py`, this location will store the generated vocabulary files.
 
 ### Tensorflow
 
